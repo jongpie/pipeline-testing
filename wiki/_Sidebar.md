@@ -5,4 +5,4 @@
 ## Some Other Section
 
 -   [Some Page](./SomePage)
--   [Another Page](./Some-folder/Another_page)
+-   [Another Page](./Another_page)
