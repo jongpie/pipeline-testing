@@ -47,4 +47,5 @@
 
 # References
 
--   [Nebula Logger Developer Documentation Home](https://jongpie.github.io/NebulaLogger/)
+-   [ApexDocs](https://jongpie.github.io/NebulaLogger/apex/)
+-   [JSDocs](https://jongpie.github.io/NebulaLogger/lightning-components/)
