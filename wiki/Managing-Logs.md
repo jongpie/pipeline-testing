@@ -1,3 +1,5 @@
+## TODO - Configuring LogStatus\_\_mdt
+
 To help development and support teams better manage logs (and any underlying code or config issues), some fields on `Log__c` are provided to track the owner, priority and status of a log. These fields are optional, but are helpful in critical environments (production, QA sandboxes, UAT sandboxes, etc.) for monitoring ongoing user activities.
 
 ## 'Manage' Quick Action

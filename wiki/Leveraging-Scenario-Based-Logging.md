@@ -1,4 +1,8 @@
-TODO
+## TODO Configuring LoggerScenarioRule\_\_mdt
+
+WIP
+
+## TODO
 
 -   what is a log scenario?
     -   How's it different from tagging (link to tagging log entries page)

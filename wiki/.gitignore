@@ -1,4 +1,8 @@
 # Directories
+wiki/docs/
+wiki/docs2/
+wiki/images/
+wiki/temp/
 .bin/
 node_modules/
 prettier/

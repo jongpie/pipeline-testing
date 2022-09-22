@@ -1,7 +1,0 @@
-# Directories
-.bin/
-node_modules/
-prettier/
-
-# Individual files
-package-lock.json

@@ -1,3 +1,5 @@
+## TODO Configuring LoggerPlugin\_\_mdt - overview of admin steps for enabling/disabling plugins
+
 TODO Full rewrite, based on `v4.7.1` plugin framework overhaul
 
 If you want to add your own automation to the included custom objects, you can leverage Apex or Flow to define "plugins" - the logger system will then automatically run the plugins after each trigger event (BEFORE_INSERT, BEFORE_UPDATE, AFTER_INSERT, AFTER_UPDATE, and so on). Currently, these objects are supported:

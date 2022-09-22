@@ -1,1 +1,0 @@
-TODO Configuring-Log-Status
